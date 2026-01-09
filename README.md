@@ -49,13 +49,6 @@ Desarrollo de scripts integrados en flujos de trabajo web para el procesamiento,
 
 ---
 
-### Estadísticas de GitHub
-
-![Estadísticas de Luciano](https://github-readme-stats.vercel.app/api?username=LuchoLesca&show_icons=true&theme=dark&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LuchoLesca&layout=compact&theme=dark)
-
----
-
 ### Contacto
 
 - **LinkedIn:** [luciano-lesca](https://www.linkedin.com/in/luciano-lesca-285072192)
